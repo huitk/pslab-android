@@ -261,11 +261,6 @@
 
     <string name="time_unit_la">Time (ms)</string>
     <string name="view">VIEW</string>
-
-    <!-- Experiment Headers -->
-    <!-- Experiments -->
-
-
     <string name="hmc5883l">hmc5883l</string>
     <string name="mpu6050">mpu6050</string>
     <string name="sht21">sht21</string>
@@ -277,7 +272,6 @@
     <string name="vl53l0x">VL53L0X</string>
     <string name="ccs811">CCS811</string>
     <string name="apds9960">APDS9960</string>
-
     <string name="raw_data">Raw Data</string>
     <string name="configure">Configure</string>
     <string name="plot">Plot</string>
